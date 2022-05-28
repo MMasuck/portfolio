@@ -4,6 +4,7 @@ import Html from "../../img/html.png";
 import Css from "../../img/css.png";
 import Js from "../../img/js.png";
 import Rlogo from "../../img/rlogo.png";
+import Java from "../../img/java.png";
 
  const About = () => {
      return (
@@ -24,6 +25,7 @@ import Rlogo from "../../img/rlogo.png";
                  <img src={Css} alt="" className="a-icon"/>
                  <img src={Js} alt="" className="a-icon"/>
                  <img src={Rlogo} alt="" className="a-icon"/>
+                 <img src={Java} alt="" className="a-icon"/>
                  </div>
              </div>
          </div>
